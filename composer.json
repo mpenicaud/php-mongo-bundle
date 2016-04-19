@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "sokil/php-mongo": "mpenicaud-patch-1"
+        "sokil/php-mongo": "*"
     },
     "autoload": {
         "psr-0": {
