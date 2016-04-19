@@ -1,5 +1,5 @@
 {
-    "name": "sokil/php-mongo-bundle",
+    "name": "mpenicaud/php-mongo-bundle",
     "description": "MongoDb Symfony Bundle",
     "authors": [
         {
@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "sokil/php-mongo": "*"
+        "mpenicaud/php-mongo": "*"
     },
          "repositories": [
         {
